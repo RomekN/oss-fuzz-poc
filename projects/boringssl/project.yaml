@@ -8,5 +8,5 @@ sanitizers:
 - undefined
 - memory
 fuzzing_engines:
- -libfuzzer
+- libfuzzer
 main_repo: 'https://boringssl.googlesource.com/boringssl'
