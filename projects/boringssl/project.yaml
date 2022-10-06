@@ -7,4 +7,6 @@ sanitizers:
 - address
 - undefined
 - memory
+fuzzing_engines:
+ -libfuzzer
 main_repo: 'https://boringssl.googlesource.com/boringssl'
