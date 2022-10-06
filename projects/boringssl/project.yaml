@@ -2,7 +2,7 @@ homepage: "https://boringssl.googlesource.com/boringssl/"
 language: c++
 primary_contact: "roman.necel@intel.com"
 auto_ccs:
- - "rafal.nowick@intel.com"
+ - "rafal.nowicki@intel.com"
 sanitizers:
 - address
 - undefined
