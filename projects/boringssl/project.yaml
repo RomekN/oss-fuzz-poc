@@ -1,8 +1,8 @@
 homepage: "https://boringssl.googlesource.com/boringssl/"
 language: c++
-primary_contact: "bublaq@gmail.com"
+primary_contact: "roman.necel@intel.com"
 auto_ccs:
- - "rnowicki82@gmail.com"
+ - "rafal.nowick@intel.com"
 sanitizers:
 - address
 - undefined
